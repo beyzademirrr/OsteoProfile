@@ -284,7 +284,7 @@ Ve temelinde bulunan orijinal çalışmaları da ayrıca atıflamayı unutmayın
 
 ## 📄 Lisans
 
-Bu proje **MIT Lisansı** altında yayınlanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+Bu proje **APACHE Lisansı** altında yayınlanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
 ```
 Apache License - Özgürce kullanın, dağıtın ve geliştirin.
