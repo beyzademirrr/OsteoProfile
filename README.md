@@ -2,7 +2,7 @@
 
 # 🦴 OsteoProfile
 
-### *Adli antropolojik biyolojik Profile analiz platformu*
+### *Adli antropolojik biyolojik Profil analiz platformu*
 
 **Türk popülasyonu için valide edilmiş formüllerle cinsiyet, boy ve yaş tahmini**
 
