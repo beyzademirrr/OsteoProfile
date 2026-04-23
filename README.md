@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🦴 OsteoProfil
+# 🦴 OsteoProfile
 
 ### *Adli antropolojik biyolojik profil analiz platformu*
 
 **Türk popülasyonu için valide edilmiş formüllerle cinsiyet, boy ve yaş tahmini**
 
-## 🎯 OsteoProfil Nedir?
+## 🎯 OsteoProfile Nedir?
 
 **OsteoProfil**, insan iskelet kalıntılarından **biyolojik profil** (cinsiyet, boy, ölüm yaşı) çıkarımı yapan, **Türk/Anadolu popülasyonu için bilimsel olarak valide edilmiş** formüllere dayalı modüler bir adli antropoloji yazılımıdır.
 
