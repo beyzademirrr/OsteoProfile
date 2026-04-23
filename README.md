@@ -8,7 +8,7 @@
 
 ## 🎯 OsteoProfile Nedir?
 
-**OsteoProfile**, insan iskelet kalıntılarından **biyolojik Profile** (cinsiyet, boy, ölüm yaşı) çıkarımı yapan, **Türk/Anadolu popülasyonu için bilimsel olarak valide edilmiş** formüllere dayalı modüler bir adli antropoloji yazılımıdır.
+**OsteoProfile**, insan iskelet kalıntılarından **biyolojik Profil** (cinsiyet, boy, ölüm yaşı) çıkarımı yapan, **Türk/Anadolu popülasyonu için bilimsel olarak valide edilmiş** formüllere dayalı modüler bir adli antropoloji yazılımıdır.
 
 Adli vakalarda, arkeolojik kazılarda ve antropolojik araştırmalarda iskelet kalıntılarının kimliklendirilmesine yardımcı olmak üzere tasarlanmıştır. Tüm hesaplamalar **peer-reviewed literatürden** türetilmiştir ve her sonuç ilgili güven aralıklarıyla birlikte sunulur.
 
